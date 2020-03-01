@@ -5,6 +5,8 @@
     - Run tests: 
         - `mvn test –PallApiTests`
         
+[API docs](https://www.javadoc.io/doc/io.rest-assured/rest-assured/3.2.0/io/restassured/RestAssured.html)
+        
 ## CI/CD API tests integration
 
     - API tests deployed to a repository
